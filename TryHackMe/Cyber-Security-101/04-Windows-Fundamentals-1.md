@@ -22,3 +22,7 @@ https://tryhackme.com/room/windowsfundamentals1xbx
 
 
 ## Takeaway for Security Roles
+Not too much I didn't know here, familiar territory.
+Except - ADS (Alternate Data Streams)
+
+
