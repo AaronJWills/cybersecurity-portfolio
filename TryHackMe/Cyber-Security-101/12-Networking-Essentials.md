@@ -5,16 +5,12 @@
 **Difficulty:** Easy
 
 ## Overview
-Dynamic Host Configuration Protocol (DHCP)
-Address Resolution Protocol (ARP)
-Network Address Translation (NAT)
-Internet Control Message Protocol (ICMP)
-Ping
-Traceroute
+- Dynamic Host Configuration Protocol (DHCP)
+- Address Resolution Protocol (ARP)
+- Network Address Translation (NAT)
+- Internet Control Message Protocol (ICMP)
 
 ## Key Skills Practised
--
-
 
 ## Useful Commands / Tools
 ICMP - 'ping', 'tracert' (windows) 'traceroute' (Linux)
