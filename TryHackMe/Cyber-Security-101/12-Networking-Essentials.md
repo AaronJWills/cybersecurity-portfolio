@@ -21,6 +21,7 @@ Traceroute
 
 ## Screenshots
 DHCP packet request
+
 <img width="668" height="98" alt="image" src="https://github.com/user-attachments/assets/8677c1b6-37ab-4685-bafe-9655e7e144d4" />
 
 ## Takeaway for Security Roles
