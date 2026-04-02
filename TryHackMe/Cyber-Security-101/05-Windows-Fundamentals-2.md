@@ -5,7 +5,7 @@ https://tryhackme.com/room/windowsfundamentals2x0x
 **Completed:** 20 March, 2026
 **Difficulty:** Easy
 
-##Overview
+## Overview
 System Configuration, UAC Settings, Resource Monitoring, the Windows Registry
 
 ## Key Skills Practised
