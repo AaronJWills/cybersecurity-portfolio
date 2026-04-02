@@ -4,7 +4,7 @@
 **Completed:** 22 March, 2026
 **Difficulty:** Easy
 
-##Overview
+## Overview
 Basic concepts and functionality provided by Active Directory
 
 ## Key Skills Practised
