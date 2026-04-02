@@ -24,6 +24,11 @@ DHCP packet request
 
 <img width="668" height="98" alt="image" src="https://github.com/user-attachments/assets/8677c1b6-37ab-4685-bafe-9655e7e144d4" />
 
+ARP in action
+
+<img width="932" height="253" alt="image" src="https://github.com/user-attachments/assets/8a1d4321-2dcc-468e-9ecb-a4c742ea003b" />
+
+
 ## Takeaway for Security Roles
 DHCP is an application-level protocol that relies on UDP; the server listens on UDP port 67, and the client sends from UDP port 68
 DHCP follows four steps: Discover, Offer, Request, and Acknowledge (DORA)
