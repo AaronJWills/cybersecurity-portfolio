@@ -29,4 +29,4 @@ Understanding different types of Linux shells is important for SOC work
 Common shells:
 - Bash (default)
 - fish (user friendly)
-- zsh (modern, feature-rich) 
+- zsh (modern, feature-rich)
