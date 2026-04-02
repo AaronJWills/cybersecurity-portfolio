@@ -25,4 +25,8 @@ Scripting and Linux shells
 (insert from ASUS)
 
 ## Takeaway for Security Roles
-Types of shells - Bash (default), fish (user friendly), zsh (modern) 
+Understanding different types of Linux shells is important for SOC work
+Common shells:
+- Bash (default)
+- fish (user friendly)
+- zsh (modern, feature-rich) 
