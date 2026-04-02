@@ -1,8 +1,8 @@
 # TryHackMe : Networking Essentials
 
 **Path:** Cyber Security 101
-**Completed:** 
-**Difficulty:**
+**Completed:** 2 April, 2026
+**Difficulty:** Easy
 
 ## Overview
 Dynamic Host Configuration Protocol (DHCP)
