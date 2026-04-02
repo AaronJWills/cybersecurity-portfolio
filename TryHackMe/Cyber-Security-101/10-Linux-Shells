@@ -5,7 +5,7 @@ https://tryhackme.com/room/linuxshells
 **Completed:** 29 March, 2026
 **Difficulty:** Easy
 
-##Overview
+## Overview
 Scripting and Linux shells
 
 ## Key Skills Practised
@@ -15,13 +15,11 @@ Scripting and Linux shells
 
 
 ## Useful Commands / Tools
-Create a text file with .sh extension
-Nano first_script.sh
-And start it with -
-#!/bin/bash
-Read - will store a variable
-Ctrl+x to save text file
-Chmod +x first_script.sh (to make sure script can be executed) 
+- Create a text file with .sh extension: 'Nano first_script.sh'
+- Start it with '#!/bin/bash'
+- Read - will store a variable
+- 'Ctrl+x' to save text file
+- 'Chmod +x first_script.sh' (to make sure script can be executed) 
 
 ## Screenshots
 (insert from ASUS)
