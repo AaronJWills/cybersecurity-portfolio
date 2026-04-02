@@ -5,7 +5,7 @@ https://tryhackme.com/room/windowsfundamentals1xbx
 **Completed:** 19 March, 2026
 **Difficulty:** Easy
 
-##Overview
+## Overview
  Windows desktop, the NTFS file system, UAC, the Control Panel
 
 ## Key Skills Practised
