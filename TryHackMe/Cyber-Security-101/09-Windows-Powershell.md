@@ -31,6 +31,7 @@ eg. Get-ChildItem | Sort-Object Length -Descending | Select-Object -First 1
 - Get-ComputerInfo - even more handier than the systeminfo CMD command
 - Get-LocalUser, Get-NetIPConfiguration, Get-NetIPAddress
 - Get-Process, Get-Service, Get-NetTCPConnection, Get-FileHash
+- Running Services - 'Get-Service | Where-Object Status -eq Running'
 - To see any hidden streams attached to a file - eg Get-Item -Path "folder\file" -Stream *
 - Invoke-Command for running scripts and commands remotely 
 eg. Invoke-Command -FilePath c:\scripts\test.ps1 -ComputerName Server01
