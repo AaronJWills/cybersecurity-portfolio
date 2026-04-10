@@ -21,5 +21,3 @@ Introduction to the Linux operating system
 
 ## Takeaway for Security Roles
 Understanding why Linux is so commonplace today
-
-
