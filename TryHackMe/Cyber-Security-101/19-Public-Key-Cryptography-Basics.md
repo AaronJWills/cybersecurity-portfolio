@@ -1,23 +1,24 @@
-# TryHackMe : Linux Fundamentals 1
-https://tryhackme.com/room/linuxfundamentalspart1
+# TryHackMe : Public Key Cryptography Basics
+https://tryhackme.com/room/publickeycrypto
 
 **Path:** Cyber Security 101
-**Completed:** 18 March, 2026
+**Completed:** 12 April, 2026
 **Difficulty:** Easy
 
 ## Overview
-Introduction to the Linux operating system
+How public key ciphers such as RSA work and their role in applications such as SSH.
 
 ## Key Skills Practised
-- Familiarization
-- Basic commands
-- Shell operators
+- RSA CTF's
+- Encryption maths inc Diffie-Hellman Key Exchange
+- Checking SSH keys
+- Decrypting messages using GPG
 
 ## Useful Commands / Tools
-- 'echo', 'whoami', 'ls', 'cd', 'cat', 'pwd', 'find', 'grep', &, &&, >, >>
+- 
 
 ## Screenshots
 
 
 ## Takeaway for Security Roles
-Understanding why Linux is so commonplace today
+
