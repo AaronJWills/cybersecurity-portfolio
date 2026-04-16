@@ -1,23 +1,37 @@
-# TryHackMe : Linux Fundamentals 1
-https://tryhackme.com/room/linuxfundamentalspart1
+# TryHackMe : Cryptography Basics
+https://tryhackme.com/room/cryptographybasics
 
 **Path:** Cyber Security 101
-**Completed:** 18 March, 2026
+**Completed:** 12 April, 2026
 **Difficulty:** Easy
 
 ## Overview
-Introduction to the Linux operating system
+- Cryptography key terms
+- Importance of cryptography
+- Caesar Cipher
+- Standard symmetric ciphers
+- Common asymmetric ciphers
+- Basic mathematics commonly used in cryptography
 
 ## Key Skills Practised
-- Familiarization
-- Basic commands
-- Shell operators
+- NA
 
 ## Useful Commands / Tools
-- 'echo', 'whoami', 'ls', 'cd', 'cat', 'pwd', 'find', 'grep', &, &&, >, >>
+- NA
 
 ## Screenshots
 
 
 ## Takeaway for Security Roles
-Understanding why Linux is so commonplace today
+Cryptography ensures confidentiality, integrity, and authenticity of data, making it vital for secure communication and data protection.
+
+Key Points:
+Purpose: Protects data from unauthorized access and tampering in adversarial environments.
+Encryption Types:
+Symmetric: Same key for encryption/decryption (e.g., AES). Requires secure key sharing.
+Asymmetric: Public key for encryption, private key for decryption (e.g., RSA). Ideal for secure key exchange.
+Applications: Used in encrypted connections (e.g., HTTPS, SSH), secure file downloads, and online banking.
+Compliance: Standards like PCI DSS, HIPAA, and GDPR mandate encryption for sensitive data.
+Mathematical Foundations: XOR and modulo operations are key to cryptographic algorithms.
+Final Thought:
+Security professionals must understand cryptography’s principles and ensure compliance to protect sensitive data effectively.
