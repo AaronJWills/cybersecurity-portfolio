@@ -33,5 +33,6 @@ Key Points:
 - Applications: Used in encrypted connections (e.g., HTTPS, SSH), secure file downloads, and online banking.
 - Compliance: Standards like PCI DSS, HIPAA, and GDPR mandate encryption for sensitive data.
 - Mathematical Foundations: XOR and modulo operations are key to cryptographic algorithms.
-- Final Thought:
+
+Final Thought:
 - Security professionals must understand cryptography’s principles and ensure compliance to protect sensitive data effectively.
